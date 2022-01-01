@@ -25,6 +25,7 @@ IP-CIDR6,fd00::/8,no-resolve
 
 # Router managed 路由器管理域名
 DOMAIN,router.asus.com
+SRC-IP-CIDR,192.168.6.192/32
 DOMAIN-SUFFIX,hiwifi.com
 DOMAIN-SUFFIX,leike.cc
 DOMAIN-SUFFIX,miwifi.com
